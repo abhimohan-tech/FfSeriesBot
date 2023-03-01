@@ -4,3 +4,5 @@ tgcrypto
 pymongo
 umongo
 motor
+bs4
+imdbpy==2021.4.18
